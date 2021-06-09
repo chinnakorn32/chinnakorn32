@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mew singhaphom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mew singhaphom" height="30" width="40" /></a>
+<a href="https://fb.com/chinnakorn32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinnakorn32" height="30" width="40" /></a>
 <a href="https://instagram.com/mew_singhaphom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mew_singhaphom" height="30" width="40" /></a>
 <a href="https://discord.gg/dSxfqQWTDk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dSxfqQWTDk" height="30" width="40" /></a>
 </p>

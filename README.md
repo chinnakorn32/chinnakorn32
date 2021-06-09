@@ -2,7 +2,6 @@
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
 </a>
 
-preview
 <h1 align="center">Hi 👋, I'm chinnakorn32</h1>
 <h3 align="center">like to learn new things</h3>
 
